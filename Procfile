@@ -1,1 +1,1 @@
-worker: chmod +x dwsongs-normal.py && ./dwsongs-normal.py
+worker: python3 dwsongs-normal.py
